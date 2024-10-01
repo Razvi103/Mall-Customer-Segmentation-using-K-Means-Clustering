@@ -2,7 +2,6 @@
 
 This project applies K-Means clustering, an unsupervised machine learning algorithm, to segment mall customers based on their **Annual Income** and **Spending Score**. The goal is to identify distinct groups of customers to better understand their spending behavior, which could be used for marketing strategies such as targeted promotions or customer retention plans.
 
-![Clustering Visualization](path/to/your/clustering-visualization.png) <!-- Add image path -->
 
 ## Table of Contents
 - [Introduction](#introduction)
